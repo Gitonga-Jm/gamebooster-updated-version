@@ -1,0 +1,2 @@
+-keep class com.gameboost.pro.** { *; }
+-dontwarn com.airbnb.lottie.**

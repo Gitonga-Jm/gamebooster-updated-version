@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Game Booster</string>
+    <string name="boost_now">BOOST</string>
+    <string name="widget_description">Quick boost for gaming</string>
+    <string name="boost_service_title">Game Booster Running</string>
+    <string name="boost_service_channel">Game Booster Service</string>
+    <string name="boost_service_desc">Game performance optimization</string>
+    <string name="notification_temp">CPU: %1$.1f°C</string>
+    <string name="notification_ram">RAM: %1$d%% free</string>
+    <string name="notification_ping">Ping: %1$dms</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_games">Games</string>
+    <string name="nav_tools">Tools</string>
+    <string name="nav_stats">Stats</string>
+    <string name="nav_settings">Settings</string>
+    <string name="onboarding_title_1">Welcome</string>
+    <string name="onboarding_desc_1">Boost your gaming performance</string>
+    <string name="onboarding_title_2">Network</string>
+    <string name="onboarding_desc_2">Optimize WiFi for lower ping</string>
+    <string name="onboarding_title_3">Launch</string>
+    <string name="onboarding_desc_3">Clear RAM before gaming</string>
+    <string name="onboarding_skip">Skip</string>
+    <string name="onboarding_get_started">Start</string>
+    <string name="onboarding_next">Next</string>
+    <string name="permission_notifications">Notifications</string>
+    <string name="permission_usage">Usage Access</string>
+    <string name="permission_battery">Battery</string>
+</resources>
