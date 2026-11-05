@@ -11,3 +11,8 @@ app/build
 *.apk
 *.aab
 *.hprof
+*.keystore
+*.jks
+app/build/
+.gradle/
+local.properties
